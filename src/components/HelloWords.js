@@ -2,14 +2,13 @@ import Frase from "./Frase"
 
 function HelloWorld() {
 
-  return(
+  return (
     <div>
-      <Frase></Frase>
       <h1>Meu primeiro componente</h1>
       <Frase></Frase>
     </div>
   )
-  
+
 }
 
 export default HelloWorld
